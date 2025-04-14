@@ -1,3 +1,16 @@
+# Excel Sales Analytics 📊
+
+This project showcases interactive **Sales and Financial Reports** built using **Microsoft Excel, Power Query, Power Pivot**, and **DAX**. It focuses on real-world business analysis scenarios such as customer performance, market vs target comparisons, and profit & loss statements.
+
+🔍 **Key Reports Included:**
+- Customer Performance Report
+- Market vs Target Sales Comparison
+- P&L by Fiscal Year, Month, and Market
+
+🛠️ **Tools Used:** Excel | Power Query | Power Pivot | DAX
+
+---
+
 # Excel-Sales-Analytics
 
 ## Sales Report:
